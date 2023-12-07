@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Full-Stack Developer Certification",
+    "price": "IDR. 1.500.000",
+    "pricing": "Greatest Value",
+    "description": ["“Comprehensive Skills: Develop expertise in both front-end and back-end web development.”","“Stay Current: Learn the latest skills and tools used by full stack developers in their daily work.”","“Versatility: Full-stack developers excel in both client-side and server-side tasks, reducing the need for multiple specialized developers, making them valuable team members.”"]
+  },
+  {
+    "name": "Developer Certification",
+    "price": "IDR. 1.000.000",
+    "pricing": "",
+    "description": ["“Skill Validation: Certification formally recognizes your expertise, boosting credibility with employers or clients.”", 
+    "“Career Advancement: Developer certifications open doors to new opportunities and are often preferred or required by employers.”", 
+    "“Learning and Growth: Certification involves structured learning, keeping you updated with industry trends, fostering continuous growth.”"]
+  }
+]

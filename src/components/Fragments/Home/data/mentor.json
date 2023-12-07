@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/images/webp/Person1.webp",
+    "name": "Grady Booch",
+    "role": "Back End Dev.",
+    "quote": "The function of good software is to make the complex appear to be simple."
+  },
+  {
+    "img": "/images/webp/Person2.webp",
+    "name": "Charles Eames",
+    "role": "Front End Dev.",
+    "quote": "The details are not the details. They make the design."
+  },
+  {
+    "img": "/images/webp/Person3.webp",
+    "name": "James Bach",
+    "role": "Quality Assurance",
+    "quote": "A good tester is a skeptical tester."
+  },
+  {
+    "img": "/images/webp/Person4.webp",
+    "name": "Steve Jobs",
+    "role": "UI/UX Designer",
+    "quote": "Design is not just what it looks like and feels like. Design is how it works."
+  }
+]
