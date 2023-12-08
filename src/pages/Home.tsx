@@ -1,4 +1,4 @@
-import { Benefit, Footer, Hero,Join, Navbar, Offer, SampeReport, Choices } from "../components/Fragments/Home";
+import { Footer, Hero,Join, Navbar, Choices } from "../components/Fragments/Home"; // Benefit, Offer, SampeReport,
 import LoadingScreen from "../components/Elements/Loading/LoadingScreen";
 import React, { Suspense } from "react";
 

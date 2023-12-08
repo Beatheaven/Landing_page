@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom";
-import { ButtonOutlineSecondary, ButtonPrimary } from "../../Elements/Button/";
+// import { Link } from "react-router-dom";
+// import { ButtonOutlineSecondary, ButtonPrimary } from "../../Elements/Button/";
 
 export default function Hero() {
   return (

@@ -1,7 +1,7 @@
 import navLink1 from "../Navbar/navLink1.json";
-import navLink2 from "../Navbar/navLink2.json";
+// import navLink2 from "../Navbar/navLink2.json";
 import Humberger from "../../Elements/Humberger";
-import { Link, NavLink } from "react-router-dom";
+import { Link} from "react-router-dom"; //NavLink
 import { useState } from "react";
 
 export default function Navbar() {
